@@ -64,13 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a computer engineer specializing in building (and occasionally designing) exceptional
+        digital experiences. I am proficient in more than 30 different languages and skills, like Python, DevOps,
+        MLOps, Flutter and more.
       </p>
     </>
   );
