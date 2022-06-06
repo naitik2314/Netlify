@@ -1,11 +1,12 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-07-01'
+title: 'Board of director of Digital Communications'
+company: 'Rotaract Club of Mumbai Ghatkopar'
+location: 'Mumbai, India'
+range: 'June 2020 - June 2021'
+url: 'https://www.instagram.com/rotaractghatkopar/?hl=en'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Incharge of the complete Digital presence of a relatively large community club based in Mumbai.
+- During the period, created multiple graphics and videos related to the club and its events, which were released over multiple social media platforms.
+- Won board of director of month for the month of June 2020

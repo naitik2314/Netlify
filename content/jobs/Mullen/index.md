@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2020-01-01'
+title: 'Software Operator'
+company: 'VNS Switchgear India Private Limited'
+location: 'Mumbai, India'
+range: 'July 2019 - December 2019'
+url: 'http://nylexgroup.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Alongside operating product designing software, I analyzed the portfolio of the products and suggested some technical changes to the products.
+- Got in touch with the clients that had a long-standing relationship with the company to discuss the technicalities of the designs.
