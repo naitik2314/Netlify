@@ -1,12 +1,11 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Web developer intern'
+company: 'E3N Security PTE LTDS'
+location: 'Singapore, Singapore'
+range: 'June 2021 - Dec 2021'
+url: 'https://www.bca.gov.sg/BCADirectory/Company/Details/201222813C'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Worked on various websites and projects, including troubleshooting, designing, suggesting changes, updating and editing
+website content, posts and pages, and even provided technical support related to web‐based systems to internal teams.
