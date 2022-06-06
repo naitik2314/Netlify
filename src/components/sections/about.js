@@ -144,22 +144,22 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
+              <a href="http://nylexgroup.com/">a multi national company</a>,{' '}
+              <a href="https://www.lwindia.com/">three different language internships at the same company</a>,{' '}
+              <a href="https://www.bca.gov.sg/BCADirectory/Company/Details/201222813C">an international company</a>, and{' '}
+              <a href="https://www.instagram.com/rotaractghatkopar/?hl=en">a non prfit organization</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
               clients.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              I also have{' '}
+              <a href="https://www.youtube.com/channel/UCzXy7VpZEy8KIBBg-R-Zxjg/videos">
+                an YouTube channel
               </a>{' About Me'}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              in which i teach how to code in different languages, how to solve errors, how to setup an environment
+              &amp; and more.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
