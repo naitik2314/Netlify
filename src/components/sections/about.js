@@ -158,7 +158,7 @@ const About = () => {
                 an YouTube channel
               </a>{' About Me'}
               in which i teach how to code in different languages, how to solve errors, how to setup an environment
-              &amp; and more.
+              &amp; more.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
