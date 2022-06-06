@@ -149,8 +149,7 @@ const About = () => {
               <a href="https://www.bca.gov.sg/BCADirectory/Company/Details/201222813C">an international company</a>, and{' '}
               <a href="https://www.instagram.com/rotaractghatkopar/?hl=en">a non prfit organization</a>. My
               main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              experiences for clients via freelancing.
             </p>
 
             <p>
