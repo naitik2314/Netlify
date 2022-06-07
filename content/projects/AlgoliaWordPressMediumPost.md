@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2020-07-20'
+title: 'Two Wheel Thrill landing page'
+github: 'https://github.com/naitik2314/Two-Wheel-Thrill'
+external: 'https://two-wheel-thrill.netlify.app'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - CSS
+  - HTML
+  - SCSS
+  - JS
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Created a landing page for a cycling club.
