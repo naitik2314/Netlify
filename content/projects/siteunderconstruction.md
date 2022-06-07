@@ -1,6 +1,6 @@
 ---
 date: '2022-01-28'
-title: 'Website under construction animation'
+title: 'Website construction animation'
 github: 'https://github.com/naitik2314/website-under-construction'
 external: 'https://site-under-construction.netlify.app'
 tech:
