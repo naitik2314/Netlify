@@ -1,5 +1,5 @@
 ---
-date: '2021-09-09'
+date: '2020-09-09'
 title: 'BookOMatic'
 github: 'https://github.com/naitik2314/BookOmatic'
 external: ''
