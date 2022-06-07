@@ -7,7 +7,7 @@ tech:
   - Stylus
   - Pug
 company: 'Northeastern'
-showInProjects: false
+showInProjects: true
 ---
 
 A cool website under construction animation, with the ability to change the color scheme using one variable.
