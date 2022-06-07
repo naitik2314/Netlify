@@ -1,16 +1,16 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'COVID-19 Scenario prediction'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://github.com/naitik2314/Covid19-Scenarios'
+cta: 'https://github.com/naitik2314/Covid19-Scenarios'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Python
+  - Node
+  - ML
+  - TypeScript
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+This tool is based on the SIR model that simulates a COVID19 outbreak. The population is initially mostly susceptible (other than for initial cases). Individuals that recover from COVID19 are subsequently immune.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+The primary purpose of the tool is to explore the dynamics of COVID19 cases and the associated strain on the health care system in the near future. The outbreak is influenced by infection control measures such as school closures, lock-down etc. The effect of such measures can be included in the simulation by adjusting the mitigation parameters. Analogously, the effect of isolation on specific age groups can be explored in the column "Isolated" in the table on severity assumptions and age specific isolation.
