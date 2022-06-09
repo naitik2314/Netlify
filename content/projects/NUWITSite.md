@@ -1,13 +1,17 @@
 ---
-date: '2015-12-20'
-title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
-external: 'https://nuwit.ccs.neu.edu/'
+date: '2021-09-23'
+title: 'Intelligent traffic cam'
+github: 'https://github.com/naitik2314/Intelligent-Traffic-Cam'
+external: ''
 tech:
-  - Jekyll
-  - Bootstrap
-company: 'Northeastern'
+  - JS
+  - HTML
+  - CSS
+  - Python
+  - Matlab
+  - Pug
+company: 'Personal'
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech’s club website using Jekyll, built while serving as web chair on the e-board.
+Traffic density of lanes is calculated using image processing which is done using images of lanes that are captured using a camera and compared to reference images of lanes with no traffic, and the timer of the signals are set accordingly.
