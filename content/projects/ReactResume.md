@@ -1,12 +1,14 @@
 ---
-date: '2016-08-01'
-title: 'React Profile'
-github: 'https://github.com/bchiang7/react-profile'
-external: 'https://bchiang7.github.io/react-profile/'
+date: '2021-09-09'
+title: 'E Health Care'
+github: 'https://github.com/naitik2314/E-Health-Care'
+external: ''
 tech:
-  - React
+  - JS
+  - HTML
   - CSS
+  - Python
 showInProjects: true
 ---
 
-Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.
+The web app which is used to remove the dependencies on the doctors, to help out the poor and helpless people with the normal medical checkup
