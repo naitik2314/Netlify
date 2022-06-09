@@ -1,7 +1,7 @@
 ---
 date: '2020-01-01'
 title: 'Software Operator'
-company: 'VNS Switchgear India Private Limited'
+company: 'VNS Switchgear'
 location: 'Mumbai, India'
 range: 'July 2019 - December 2019'
 url: 'http://nylexgroup.com/'

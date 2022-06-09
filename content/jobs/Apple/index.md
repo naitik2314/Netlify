@@ -1,7 +1,7 @@
 ---
 date: '2021-01-01'
 title: 'DevOps Intern'
-company: 'LinuxWorld Informatics Pvt. Ltd'
+company: 'LinuxWorld'
 location: 'Jaipur, India'
 range: 'August 2020 - December 2020'
 url: 'https://www.lwindia.com/'

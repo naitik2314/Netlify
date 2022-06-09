@@ -1,7 +1,7 @@
 ---
 date: '2021-07-01'
 title: 'Board of director of Digital Communications'
-company: 'Rotaract Club of Mumbai Ghatkopar'
+company: 'RCMG'
 location: 'Mumbai, India'
 range: 'June 2020 - June 2021'
 url: 'https://www.instagram.com/rotaractghatkopar/?hl=en'

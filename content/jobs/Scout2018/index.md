@@ -1,7 +1,7 @@
 ---
 date: '2021-06-01'
 title: 'Flutter Intern'
-company: 'LinuxWorld Informatics Pvt. Ltd'
+company: 'LinuxWorld'
 location: 'Jaipur, India'
 range: 'January 2021 - May 2021'
 url: 'https://www.lwindia.com/'

@@ -1,7 +1,7 @@
 ---
 date: '2020-08-01'
 title: 'MLOps Intern'
-company: 'LinuxWorld Informatics Pvt. Ltd'
+company: 'LinuxWorld'
 location: 'Jaipur, India'
 range: 'Jan 2020 - July 2020'
 url: 'https://www.lwindia.com/'
