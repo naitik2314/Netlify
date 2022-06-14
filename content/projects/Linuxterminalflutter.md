@@ -6,7 +6,7 @@ external: ''
 tech:
   - RedHat
   - Flutter
-company: 'Personal'
+company: 'LW'
 showInProjects: true
 ---
 

@@ -8,7 +8,7 @@ tech:
   - Pythopn
   - SCSS
   - CSS
-company: 'Upstatement'
+company: ''
 showInProjects: true
 ---
 

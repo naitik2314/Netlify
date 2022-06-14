@@ -8,7 +8,7 @@ tech:
   - JS
   - CSS
   - Shell
-company: 'Apple'
+company: ''
 showInProjects: true
 ---
 

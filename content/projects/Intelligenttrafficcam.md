@@ -10,7 +10,7 @@ tech:
   - Python
   - Matlab
   - Pug
-company: 'Personal'
+company: 'LW'
 showInProjects: true
 ---
 

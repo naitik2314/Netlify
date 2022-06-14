@@ -5,7 +5,7 @@ github: 'https://github.com/naitik2314/FinanceAutomation'
 external: ''
 tech:
   - Python
-company: 'Upstatement'
+company: ''
 showInProjects: false
 ---
 

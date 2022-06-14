@@ -8,7 +8,7 @@ tech:
   - HTML
   - SCSS
   - JS
-company: 'Upstatement'
+company: ''
 showInProjects: true
 ---
 

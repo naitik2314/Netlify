@@ -7,7 +7,7 @@ tech:
   - ML
   - JS
   - SCSS
-company: 'Apple'
+company: ''
 showInProjects: true
 ---
 
