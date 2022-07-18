@@ -156,7 +156,7 @@ const About = () => {
               I also have{' '}
               <a href="https://www.youtube.com/channel/UCzXy7VpZEy8KIBBg-R-Zxjg/videos">
                 an YouTube channel
-              </a>{'About Me'}
+              </a>{' '}
               in which I teach how to code in different languages, how to solve errors, how to setup an environment
               &amp; more.
             </p>
