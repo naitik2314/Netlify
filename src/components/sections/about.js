@@ -147,7 +147,7 @@ const About = () => {
               <a href="http://nylexgroup.com/">a multi national company</a>,{' '}
               <a href="https://www.lwindia.com/">three different language internships at the same company</a>,{' '}
               <a href="https://www.bca.gov.sg/BCADirectory/Company/Details/201222813C">an international company</a>, and{' '}
-              <a href="https://www.instagram.com/rotaractghatkopar/?hl=en">a non prfit organization</a>. My
+              <a href="https://www.instagram.com/rotaractghatkopar/?hl=en">a non profit organization</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences for clients via freelancing.
             </p>
