@@ -5,9 +5,9 @@ module.exports = {
     title: 'Naitik Shah',
     description:
       'Naitik Shah is a computer engineer specializing in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://naitikshah.net', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@naitik2314',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
