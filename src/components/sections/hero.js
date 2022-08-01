@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a computer engineer specializing in building and designing exceptional
+        I’m a computer engineer, specializing in building and designing exceptional
         digital experiences. I am proficient in more than 30 different languages and skills, like Python, DevOps,
         MLOps, Flutter and more.
       </p>
