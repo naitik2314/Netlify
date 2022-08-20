@@ -1,11 +1,13 @@
 ---
 date: '2020-01-01'
-title: 'Software Operator'
+title: 'Business Analyst'
 company: 'VNS Switchgear'
 location: 'Mumbai, India'
 range: 'July 2019 - December 2019'
 url: 'http://nylexgroup.com/'
 ---
 
-- Alongside operating product designing software, I analyzed the portfolio of the products and suggested some technical changes to the products.
-- Got in touch with the clients that had a long-standing relationship with the company to discuss the technicalities of the designs.
+- Worked with a team to reform the company’s processes, software, products, and services so that they are both profitable and beneficial to users.
+- Bridge the gap between information technology and common business practices departments.
+- Worked closely with technology team members and strategists and provided regular reports and findings to executive level officers.
+- Daily activities included writing reports, analyzing data, resolving system issues, drafted reports, launch initiatives, and prepared statements on the costs and benefits of restructuring existing processes.
