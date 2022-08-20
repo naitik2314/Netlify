@@ -8,7 +8,6 @@ tech:
   - JS
   - CSS
   - Shell
-company: ''
 showInProjects: true
 ---
 
