@@ -4,7 +4,7 @@ title: 'Web developer intern'
 company: 'E3N'
 location: 'Singapore, Singapore'
 range: 'June 2021 - Dec 2021'
-url: 'https://www.bca.gov.sg/BCADirectory/Company/Details/201222813C'
+url: ''
 ---
 
 - Worked on various websites and projects, including troubleshooting, designing, suggesting changes, updating and editing website content, posts and pages
