@@ -73,7 +73,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://drive.google.com/file/d/1lruTev0Vgu6sZHzygfwjGJEEK0wJ22fZ/view?usp=sharing"
+      href="https://drive.google.com/file/d/10rpoiykY9JT3gWpEmdWxcAtgx7qzV1bh/view?usp=sharing"
       target="_blank"
       rel="noreferrer">
       My Resume

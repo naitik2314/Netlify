@@ -7,5 +7,6 @@ range: 'June 2021 - Dec 2021'
 url: ''
 ---
 
-- Worked on various websites and projects, including troubleshooting, designing, suggesting changes, updating and editing website content, posts and pages
+- Worked on the official website of the company.
+- Created numerous websites for the clients of the company.
 - Provided technical support related to web‐based systems to internal teams.
