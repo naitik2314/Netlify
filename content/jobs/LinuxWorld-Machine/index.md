@@ -1,10 +1,10 @@
 ---
 date: '2022-05-31'
-title: 'Web developer intern'
-company: 'E3N'
-location: 'Singapore, Singapore'
+title: 'Machine Learning Intern'
+company: 'LinuxWorld'
+location: 'Jaipur, India'
 range: 'Jan 2022 - May 2022'
-url: ''
+url: 'https://www.lwindia.com/'
 ---
 
 - Created a system to automatically detect people who are not wearing masks, match them to the company’s

@@ -1,5 +1,5 @@
 ---
-date: '2020-01-01'
+date: '2019-12-31'
 title: 'Business Analyst'
 company: 'VNS Switchgear'
 location: 'Mumbai, India'
