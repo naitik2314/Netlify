@@ -145,11 +145,12 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="http://nylexgroup.com/">a multi national company</a>,{' '}
-              <a href="https://www.lwindia.com/">three different language internships at the same company</a>,{' '}
+              <a href="https://www.lwindia.com/">four internships at a company</a>,{' '}
               <a href="https://www.bca.gov.sg/BCADirectory/Company/Details/201222813C">an international company</a>, and{' '}
               <a href="https://www.instagram.com/rotaractghatkopar/?hl=en">a non profit organization</a>. My
               main focus these days is building accessible, inclusive products and digital
-              experiences for clients via freelancing.
+              experiences for clients via freelancing, and I am currently doing Artificial Intelligence internship at{' '}
+              <a href="https://www.lwindia.com/">LinuxWorld Informatics Pvt Ltd</a>,{' '}
             </p>
 
             <p>
